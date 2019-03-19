@@ -3,5 +3,5 @@
 let proofoflife = module.exports = {};
 
 proofoflife.isAlive = function(dead) {
-  return !(false);
+  return !(dead);
 };
